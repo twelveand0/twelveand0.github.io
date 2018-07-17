@@ -10,15 +10,15 @@ title: AlphaDiff-ASE2018-Appendix
 # Hyper-parameters
 
 ## Embedding Size
-![embedding-size](assets/alphadiff/embedding-size-vgghard-k1.png)
+![embedding-size](../assets/alphadiff/embedding-size-vgghard-k1.png)
 
 ## Negative sample Mining Method
-![negative-samoling-method](assets/alphadiff/negative-sampling-max-256-k1.png)
+![negative-samoling-method](../assets/alphadiff/negative-sampling-max-256-k1.png)
 
 # Deep Neural Network
 
 # Architecute
-![network-arch](assets/alphadiff/network-arch.png)
+![network-arch](../assets/alphadiff/network-arch.png)
 
 # Dense Layers
-![dense-layers-design](assets/alphadiff/dense-vgghard-k1.png)
+![dense-layers-design](../assets/alphadiff/dense-vgghard-k1.png)
