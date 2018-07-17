@@ -5,7 +5,7 @@ title: AlphaDiff-ASE2018-Appendix
 ---
 
 # Convolutional Network Type & Input Tensor Shape: 1D-vs-2D
-![conv1d-conv2d-inputshape](assets/alphadiff/conv1d-conv2d.png)
+![conv1d-conv2d-inputshape](../assets/alphadiff/conv1d-conv2d.png)
 
 # Hyper-parameters
 
