@@ -12,7 +12,7 @@ title: AlphaDiff-ASE2018-Appendix
 ## Embedding Size
 ![embedding-size](../assets/alphadiff/embedding-size-vgghard-k1.png)
 
-## Negative sample Mining Method
+## Hard Negative sample Mining Method
 ![negative-samoling-method](../assets/alphadiff/negative-sampling-max-256-k1.png)
 
 # Deep Neural Network
