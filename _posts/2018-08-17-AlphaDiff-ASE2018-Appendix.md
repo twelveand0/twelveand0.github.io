@@ -5,6 +5,7 @@ title: Appendix for αDiff (ASE '18)
 ---
 
 This page is used as a supplementary web page for paper "αDiff: Cross-Version Binary Code Similarity Detection with DNN" (ASE '18).
+This page contains the model configuration details and our dataset link.
 
 ### ACM Reference Format
 
@@ -55,6 +56,9 @@ This page is used as a supplementary web page for paper "αDiff: Cross-Version B
 |**Total params:**| | | **1,601,184** 
 |**Trainable params:**| | | **1,600,032**
 |**Non-trainable params:**| | | **1,152**
+
+# Dataset
+**You can get our dataset from [https://github.com/twelveand0/alphadiff-dataset](https://github.com/twelveand0/alphadiff-dataset).**
 
 <!-- 
 ;# Convolutional Network Type & Input Tensor Shape: 1D-vs-2D
