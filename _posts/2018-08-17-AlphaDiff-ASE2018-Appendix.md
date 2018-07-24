@@ -56,6 +56,7 @@ This page is used as a supplementary web page for paper "αDiff: Cross-Version B
 |**Trainable params:**| | | **1,600,032**
 |**Non-trainable params:**| | | **1,152**
 
+<!-- 
 ;# Convolutional Network Type & Input Tensor Shape: 1D-vs-2D
 ;![conv1d-conv2d-inputshape](../assets/alphadiff/conv1d-conv2d.png)
 ;
@@ -73,4 +74,5 @@ This page is used as a supplementary web page for paper "αDiff: Cross-Version B
 ;![network-arch](../assets/alphadiff/network-arch.png)
 ;
 ;# Dense Layers
-;![dense-layers-design](../assets/alphadiff/dense-vgghard-k1.png)
+;![dense-layers-design](../assets/alphadiff/dense-vgghard-k1.png) 
+-->
