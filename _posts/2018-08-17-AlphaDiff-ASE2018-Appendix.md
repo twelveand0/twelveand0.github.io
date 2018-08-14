@@ -28,28 +28,28 @@ This page contains the model configuration details and our dataset link.
 |conv2d_2 | 3x3x1x1 | 100x100x32 | 9248
 |batch_normalization_2 | | 100x100x32 | 128 
 |activation_2 | | 100x100x32 | 0 
-|average_pooling2d_1 | 2x2x2x2 | 50x50x32 | 0 
+|max_pooling2d_1 | 2x2x2x2 | 50x50x32 | 0 
 |conv2d_3 | 3x3x1x1 | 50x50x64 | 18496 
 |batch_normalization_3 | | 50x50x64 | 256 
 |activation_3 | | 50x50x64 | 0 
 |conv2d_4 | 3x3x1x1 | 50x50x64 | 36928 
 |batch_normalization_4 | | 50x50x64 | 256 
 |activation_4 | | 50x50x64 | 0 
-|average_pooling2d_2 | 2x2x2x2 | 25x25x64 | 0 
+|max_pooling2d_2 | 2x2x2x2 | 25x25x64 | 0 
 |conv2d_5 | 3x3x1x1 | 25x25x96 | 55392 
 |batch_normalization_5 | | 25x25x96 | 384 
 |activation_5 | | 25x25x96 | 0 
 |conv2d_6 | 3x3x1x1 | 25x25x96 | 83040 
 |batch_normalization_6 | | 25x25x96 | 384
 |activation_6 | | 25x25x96 | 0 
-|average_pooling2d_3  | 2x2x2x2 | 12x12x96 | 0 
+|max_pooling2d_3  | 2x2x2x2 | 12x12x96 | 0 
 |conv2d_7 | 3x3x1x1 | 12x12x96 | 83040 
 |batch_normalization_7 | | 12x12x96 | 384 
 |activation_7 | | 12x12x96 | 0 
 |conv2d_8 | 3x3x1x1 | 12x12x96 | 83040 
 |batch_normalization_8  | | 12x12x96 | 384 
 |activation_8 | | 12x12x96 | 0 
-|average_pooling2d_4  | 2x2x2x2 | 6x6x96 | 0 
+|max_pooling2d_4  | 2x2x2x2 | 6x6x96 | 0 
 |dense_1 | | 6x6x512 | 49664 
 |flatten_1 | | 18432 | 0 
 |dense_2 | | 64 | 1179712 
